@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: WJQ
+Build-Jdk: 11.0.2
+Implementation-Title: weixin
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.wjq
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/weixin
+Created-By: Maven Integration for Eclipse
+

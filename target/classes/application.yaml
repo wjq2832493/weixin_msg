@@ -1,0 +1,10 @@
+# 配置数据源
+spring.datasource:
+   # jdbc:mysql://127.0.0.1:3306/kemao_3 表示找到本机的MySQL服务器中名为kemao_3的数据库
+   # useSSL=false 表示不使用SSL加密
+   # serverTimezone=CST 指定服务器的时区，CST（China Standard Time）
+   url: jdbc:mysql://127.0.0.1:3306/wjq?useSSL=false&serverTimezone=CST&allowPublicKeyRetrieval=true
+   username: wjq
+   password: 1234
+
+server.port: 8088
